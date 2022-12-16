@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-hello-world"
+  site-url: "https://tyuyoshi.github.io/nbdev-hello-world"
+  description: ""
+  repo-branch: main
+  repo-url: "https://github.com/tyuyoshi/nbdev-hello-world"
